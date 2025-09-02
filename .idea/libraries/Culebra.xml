@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Culebra">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Culebra.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
